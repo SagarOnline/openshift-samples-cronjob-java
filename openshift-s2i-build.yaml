@@ -9,7 +9,7 @@ spec:
   runPolicy: "Serial"
   source:
     git:
-      uri: "https://github.ibm.com/openshift-samples/cronjob.git"
+      uri: "https://github.com/SagarOnline/openshift-samples-cronjob-java.git"
   strategy:
     sourceStrategy:
       from:
